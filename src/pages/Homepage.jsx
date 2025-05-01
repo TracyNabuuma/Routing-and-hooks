@@ -5,7 +5,7 @@ function Homepage() {
   return (
     <div>
 <Header />
-    <h1>Here we are</h1>
+    <h1>MAKE YOUR PAYMENTS FASTER AND SECURE</h1>
     <Component2 />
 </div>
   )

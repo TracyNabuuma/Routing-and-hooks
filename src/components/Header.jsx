@@ -1,4 +1,4 @@
- import Logo from '../assets/Logo.webp'
+ import Logo from '../assets/Logo.jpg'
  import { useNavigate } from 'react-router-dom'
 
 
